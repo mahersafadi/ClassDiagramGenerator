@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<db-path>C:/java_projects/ClassDiagramGenerator1f1/src/dictionaryf.xml</db-path>		
+<scenario-path>C:/java_projects/ClassDiagramGenerator1f1/src/scenario.txt</scenario-path>
+	<grammars>C:/java_projects/ClassDiagramGenerator11f/samplefaten.y</grammars>
+</config>

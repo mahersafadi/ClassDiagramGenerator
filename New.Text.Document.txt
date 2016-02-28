@@ -1,0 +1,16 @@
+the system starts withdrawal transaction .
+the customer selects the account on the console .
+the system gets the account from the console .
+the customer selects the amount on the console .
+the system gets the amount from the console .
+the system generates the information .
+the system sends the information TO the bank .
+the bank sends the approval TO the system .
+the system dispenses the cash in the dispenser .
+the customer gets the cash from the dispenser .
+the system records the information into the log .
+the withdrawal transaction ends . 
+the bank doesnot approve the withdrawal transaction .
+the system displays error message on the console .
+the system records the information into the log .
+what is the time
